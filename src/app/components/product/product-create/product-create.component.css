@@ -1,0 +1,21 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+button {
+    margin: 20px 15px 0px 0px;
+}
+
+#s {
+    margin: 20px 15px 0px 0px;
+    background-color: #2ccc96;
+}
+
+#s:hover {
+    background-color: #80e27e;
+}
+#c:hover {
+    background-color: #ff8a80;
+}
